@@ -1,0 +1,3 @@
+[submodule "subTraining_repo"]
+	path = subTraining_repo
+	url = https://github.com/EkaterinaVorontsova/SubmoduleRepository
